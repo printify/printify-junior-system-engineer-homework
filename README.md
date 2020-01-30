@@ -3,7 +3,7 @@ Serve a single page application on a Linux server.
 
 Tasks:
 - Prepare Vagrant box with Linux server installed
-- Deploy https://github.com/Ismaestro/angular7-example-app application
+- Deploy https://github.com/Ismaestro/angular8-example-app application
     > It should live under /srv/app folder
 - Use Nginx to serve the above application
 - Use logrotate to manage Nginx logs of application
